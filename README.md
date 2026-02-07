@@ -5,7 +5,7 @@ Bem-vindo ao repositório do front-end do projeto **Cadastro de Usuários**. Est
 Este projeto compõe a camada de apresentação de um sistema Fullstack, comunicando-se diretamente com uma API RESTful.
 
 ![Preview do Projeto](.github/preview.png)
-> *Nota: Adicione um print da tela aqui para ilustrar o projeto.*
+> *Nota:  print da tela  ilustrando o projeto.*
 
 ---
 
